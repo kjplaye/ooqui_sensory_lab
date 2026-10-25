@@ -57,11 +57,11 @@ ArXiv is quickly becoming out of date. AI is forcing humans to restrict access t
 
 Please add a block at the top of code and paper files such as:
 
-"""
+```
 Created on Sun Oct 25
 @author: BigYellowDuck
 AI usage: None/Edit/Generated
-"""
+```
 
 AI generated code and papers need full disclosure. This matches the Discord policy and will help with crediting the authors. You can also see the edit history of contibutors in GitHub UI or logs as well.
 
