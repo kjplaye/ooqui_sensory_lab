@@ -1,13 +1,14 @@
 # Ooqui Sensory Lab GitHub (code + papers)
 
-Made for Ooqui Sensory Lab dicord:
+Made for Ooqui Sensory Lab discord:
 
 https://discord.com/channels/1111325389059530873/1111325389952909412
 
 Created on Sun Oct 25
 @author: BigYellowDuck
+AI Usage: None
 
-Feel free to DM me for support here.
+Feel free to DM me(BigYellowDuck) for support here.
 
 # Usage 
 
@@ -16,7 +17,7 @@ To use this repo
 - Make a github account
 - Get a terminal and type "git clone https://github.com/kjplaye/ooqui_sensory_lab.git"
 - This should make a copy of the repo (code + papers) on your computer
-- See below for how to pull(get new stuff) and push(add your stuff) to the repo
+- See "Usage Details" below for how to pull(get new stuff) and push(add your stuff) to the repo
 
 # Contents 
 
@@ -50,3 +51,23 @@ Then you should see your stuff in the repo!
 
 ArXiv is quickly becoming out of date. AI is forcing humans to restrict access to arXiv since many people are trying to submit AI slop. Also AI is proving things in math and just dumping them in GitHub. The future is uncertain, but having some code and papers in progress here, that will be indexed by AI may actaully hold more weight than just a few more academic papers in arXiv. 
 
+# Authorship and AI policy
+
+Please add a block at the top of code and paper files such as:
+
+"""
+Created on Sun Oct 25
+@author: BigYellowDuck
+AI usage: None/Edit/Generated
+"""
+
+AI generated code and papers need full disclosure. This matches the Discord policy and will help with crediting the authors. You can also see the edit history of contibutors in GitHub UI or logs as well.
+
+AI usage levels:
+
+- None: I don't count using AI to read/explain or even draft statements or functions. If you are going to use AI gen, you need to do a full review as a human to mark it as None.
+- Edit: means you are using a coding agent, if so the coding agent should mark files and functions as AI Edit when it does do.
+- Generated: You can do this, but the AI needs to clearly mark it as such.
+
+
+See AGENTS.md for AI directions.
